@@ -8,7 +8,7 @@ var Netatmo = {
 		grant_type: 'password',
 		client_id: 'xxxxx',
 		client_secret:  'xxxxx',
-		username: 'xxxxx,
+		username: 'xxxxx',
 		password: 'xxxxx',
 		scope: 'read_thermostat write_thermostat'
 	},
